@@ -1,0 +1,138 @@
+[
+  {
+    "urunId": 1,
+    "urunAdi": "Zeytinyağı",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/04130155/04130155-e56eae-1650x1650.jpg",
+    "urunFiyati": 25.5,
+    "active": 1,
+    "marketId": 1,
+    "marketName": "Migros"
+  },
+  {
+    "urunId": 3,
+    "urunAdi": "Kahve",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/03211601/03211601-a57e01-1650x1650.jpg",
+    "urunFiyati": 30.0,
+    "active": 1,
+    "marketId": 1,
+    "marketName": "Migros"
+  },
+  {
+    "urunId": 5,
+    "urunAdi": "Karpuz",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/27191000/karpuz-kg-ort-8-kg-9f33c7-1650x1650.jpg",
+    "urunFiyati": 10.0,
+    "active": 1,
+    "marketId": 1,
+    "marketName": "Migros"
+  },
+
+  {
+    "urunId": 5,
+    "urunAdi": "Karpuz",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/27191000/karpuz-kg-ort-8-kg-9f33c7-1650x1650.jpg",
+    "urunFiyati": 15.25,
+    "active": 1,
+    "marketId": 2,
+    "marketName": "Carrefoursa"
+  },
+  {
+    "urunId": 1,
+    "urunAdi": "Zeytinyağı",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/04130155/04130155-e56eae-1650x1650.jpg",
+    "urunFiyati": 20.0,
+    "active": 1,
+    "marketId": 2,
+    "marketName": "Carrefoursa"
+  },
+  {
+    "urunId": 6,
+    "urunAdi": "Izgara Köfte",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/25030153/25030153-a473b4-1650x1650.png",
+    "urunFiyati": 40.5,
+    "active": 1,
+    "marketId": 4,
+    "marketName": "Özkuruşlar"
+  },
+  {
+    "urunId": 7,
+    "urunAdi": "Yumurta",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/20001976/20001976-2e0cb2-1650x1650.jpg",
+    "urunFiyati": 30.25,
+    "active": 1,
+    "marketId": 4,
+    "marketName": "Özkuruşlar"
+  },
+  {
+    "urunId": 8,
+    "urunAdi": "Somon Füme",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/18020011/18020011-1a5d26-1650x1650.jpg",
+    "urunFiyati": 24.95,
+    "active": 1,
+    "marketId": 4,
+    "marketName": "Özkuruşlar"
+  },
+  {
+    "urunId": 9,
+    "urunAdi": "Dana Kıyma",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/25030352/25030352-9e6e4c-1650x1650.jpg",
+    "urunFiyati": 37.95,
+    "active": 1,
+    "marketId": 5,
+    "marketName": "Hakmar"
+  },
+  {
+    "urunId": 10,
+    "urunAdi": "Sosis",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/14010104/pinar-kokteyl-sosis-215-gr-4c5fb9-1650x1650.jpg",
+    "urunFiyati": 30,
+    "active": 1,
+    "marketId": 5,
+    "marketName": "Hakmar"
+  },
+  {
+    "urunId": 5,
+    "urunAdi": "Karpuz",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/27191000/karpuz-kg-ort-8-kg-9f33c7-1650x1650.jpg",
+    "urunFiyati": 25,
+    "active": 1,
+    "marketId": 5,
+    "marketName": "Hakmar"
+  },
+  {
+    "urunId": 12,
+    "urunAdi": "Pasta",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/05120138/05120138-fbafea-1650x1650.jpg",
+    "urunFiyati": 40.9,
+    "active": 1,
+    "marketId": 3,
+    "marketName": "Happy Center"
+  },
+  {
+    "urunId": 13,
+    "urunAdi": "Margarin",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/04201351/sabah-margarin-250-gr-ea83e1-1650x1650.jpg",
+    "urunFiyati": 12,
+    "active": 1,
+    "marketId": 3,
+    "marketName": "Happy Center"
+  },
+  {
+    "urunId": 14,
+    "urunAdi": "Kurabiye",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/05110394/alacati-tahinli-cevizli-kurabiye-200g-840e48-1650x1650.jpg",
+    "urunFiyati": 25.0,
+    "active": 1,
+    "marketId": 3,
+    "marketName": "Happy Center"
+  },
+  {
+    "urunId": 9,
+    "urunAdi": "Dana Kıyma",
+    "urunImage": "https://images.migrosone.com/sanalmarket/product/25030352/25030352-9e6e4c-1650x1650.jpg",
+    "urunFiyati": 70,
+    "active": 1,
+    "marketId": 3,
+    "marketName": "Happy Center"
+  }
+]

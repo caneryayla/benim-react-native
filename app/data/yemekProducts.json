@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "Köfte Burger Menü",
+    "size": "",
+    "desc": "",
+    "price": 150,
+    "marka_id": 1,
+    "kategoriId": 1,
+    "image": "https://www.burgerking.com.tr/cmsfiles/products/kofteburger-menu.png?v=290"
+  },
+  {
+    "id": 2,
+    "name": "Big King Menü",
+    "size": "",
+    "desc": "",
+    "price": 170,
+    "marka_id": 1,
+    "kategoriId": 1,
+    "image": "https://www.burgerking.com.tr/cmsfiles/products/big-king-menu.png?v=290"
+  },
+  {
+    "id": 3,
+    "name": "Big Mac Menü",
+    "size": "",
+    "desc": "",
+    "price": 210,
+    "marka_id": 2,
+    "kategoriId": 1,
+    "image": "https://cdn.getiryemek.com/products/1661237921375_1000x750.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "McChicken Menü",
+    "size": "",
+    "desc": "",
+    "price": 160,
+    "marka_id": 2,
+    "kategoriId": 1,
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/26099057.jpg?width=%s"
+  },
+  {
+    "id": 5,
+    "name": "Zurna Et Dürüm Menü",
+    "size": "",
+    "desc": "",
+    "price": 170,
+    "marka_id": 3,
+    "kategoriId": 2,
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/12742709.jpg?width=%s"
+  },
+  {
+    "id": 6,
+    "name": "Tavuk Döner Menü",
+    "size": "",
+    "desc": "",
+    "price": 160,
+    "marka_id": 3,
+    "kategoriId": 2,
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/12742697.jpg?width=%s"
+  },
+  {
+    "id": 7,
+    "name": "İskender Et Döner",
+    "size": "",
+    "desc": "",
+    "price": 189,
+    "marka_id": 4,
+    "kategoriId": 2,
+    "image": "https://www.mngavm.com/wp-content/uploads/2022/08/iskender.png"
+  },
+  {
+    "id": 8,
+    "name": "Pilav Üstü Et Döner Menü",
+    "size": "",
+    "desc": "",
+    "price": 120,
+    "marka_id": 4,
+    "kategoriId": 2,
+    "image": "https://cdn.getiryemek.com/restaurants/1602683161891_1125x522.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Orta Boy Bol Malzemos Pizza",
+    "size": "",
+    "desc": "",
+    "price": 110,
+    "marka_id": 5,
+    "kategoriId": 3,
+    "image": "https://cdn.getiryemek.com/restaurants/1617276099206_1125x522.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Karışık Pizzetta",
+    "size": "",
+    "desc": "",
+    "price": 80,
+    "marka_id": 5,
+    "kategoriId": 3,
+    "image": "https://cdn.dpeurasia.com/dms/images/product/TR_PZKAR_434x404.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Orta Boy Akdeniz Pizza",
+    "size": "",
+    "desc": "",
+    "price": 120,
+    "marka_id": 6,
+    "kategoriId": 3,
+    "image": "https://www.littlecaesars.com.tr/CMSFiles/Product/LittleImage/caesars%20italyano.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Tavuklu Pide Menü",
+    "size": "",
+    "desc": "",
+    "price": 95,
+    "marka_id": 7,
+    "kategoriId": 4,
+    "image": "https://pidemstatik.kolay.site/content/product/img/PIDEM-WEB-SITESI-TAVUKLU-PIDEM-MENU-1200X1200px.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Lahmacun",
+    "size": "",
+    "desc": "",
+    "price": 40,
+    "marka_id": 7,
+    "kategoriId": 4,
+    "image": "https://pidemstatik.kolay.site/content/product/img/PIDEM-WEB-SITESI-LAHMACUN-MENU-1200X1200px.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Fıstıkl Baklava 1 Kg",
+    "size": "",
+    "desc": "",
+    "price": 650,
+    "marka_id": 8,
+    "kategoriId": 5,
+    "image": "https://konyabaklava.com/wp-content/uploads/2021/02/fistikli-kuru-baklava-360x240.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Cevizli Saray Sarma 1 Kg",
+    "size": "",
+    "desc": "",
+    "price": 520,
+    "marka_id": 8,
+    "kategoriId": 5,
+    "image": "https://konyabaklava.com/wp-content/uploads/2021/12/CEVIZLI-SARAY-SARMASI1-min.png"
+  },
+  {
+    "id": 16,
+    "name": "Karışık Ekler 1 Kg",
+    "size": "",
+    "desc": "",
+    "price": 320,
+    "marka_id": 9,
+    "kategoriId": 5,
+    "image": "https://static.ticimax.cloud/44211/uploads/urunresimleri/buyuk/karisik-ekler--1-kg-6-4220.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Karışık Kurabiye 500 gr",
+    "size": "",
+    "desc": "",
+    "price": 120,
+    "marka_id": 9,
+    "kategoriId": 5,
+    "image": "https://cevizagaci.com/img/product/l/karisik-special-tatli-kurabiye-tatli001-69.jpg"
+  }
+]

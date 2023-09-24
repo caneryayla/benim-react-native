@@ -1,0 +1,539 @@
+[
+  {
+    "id": 1,
+    "name": "Zeytinyağı",
+    "desc": "Komili Zeytinyağı 1 kg ",
+    "stock": 25,
+    "price": 11.99,
+    "market_id": 1,
+    "image": "https://images.migrosone.com/sanalmarket/product/04130155/04130155-e56eae-1650x1650.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Çay",
+    "desc": "Çaykur Çay 500 gr ",
+    "stock": 40,
+    "price": 9.99,
+    "market_id": 1,
+    "image": "https://images.migrosone.com/sanalmarket/product/03111303/03111303-949450-1650x1650.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kahve",
+    "desc": "Mehmet Efendi Türk Kahvesi",
+    "stock": 30,
+    "price": 14.99,
+    "market_id": 1,
+    "image": "https://images.migrosone.com/sanalmarket/product/03211601/03211601-a57e01-1650x1650.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ananas",
+    "desc": "Ananas Adet",
+    "stock": 20,
+    "price": 6.99,
+    "market_id": 1,
+    "image": "https://images.migrosone.com/sanalmarket/product/27501003/-ananas-adet-c1fa49-1650x1650.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Karpuz",
+    "desc": "Karpuz / kg",
+    "stock": 15,
+    "price": 4.99,
+    "market_id": 1,
+    "image": "https://images.migrosone.com/sanalmarket/product/27191000/karpuz-kg-ort-8-kg-9f33c7-1650x1650.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Köfte",
+    "desc": "Izgara Köfte",
+    "stock": 25,
+    "price": 9.99,
+    "market_id": 1,
+    "image": "https://images.migrosone.com/sanalmarket/product/25030153/25030153-a473b4-1650x1650.png"
+  },
+  {
+    "id": 7,
+    "name": "Yumurta",
+    "desc": "30'lu Yumurta",
+    "stock": 30,
+    "price": 0.5,
+    "market_id": 1,
+    "image": "https://images.migrosone.com/sanalmarket/product/20001976/20001976-2e0cb2-1650x1650.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Somon Füme",
+    "desc": "Dardanel Somon Füme",
+    "stock": 20,
+    "price": 19.99,
+    "market_id": 1,
+    "image": "https://images.migrosone.com/sanalmarket/product/18020011/18020011-1a5d26-1650x1650.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dana Kıyma",
+    "stock": 15,
+    "price": 29.99,
+    "market_id": 1,
+    "image": "https://images.migrosone.com/sanalmarket/product/25030352/25030352-9e6e4c-1650x1650.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Sosis",
+    "stock": 10,
+    "price": 8.99,
+    "market_id": 1,
+    "image": "https://images.migrosone.com/sanalmarket/product/14010104/pinar-kokteyl-sosis-215-gr-4c5fb9-1650x1650.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Kahve",
+    "stock": 30,
+    "price": 14.99,
+    "market_id": 1,
+    "image": "https://images.migrosone.com/sanalmarket/product/03211601/03211601-a57e01-1650x1650.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Pasta",
+    "stock": 15,
+    "price": 19.99,
+    "market_id": 1,
+    "image": "https://images.migrosone.com/sanalmarket/product/05120138/05120138-fbafea-1650x1650.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Margarin",
+    "stock": 20,
+    "price": 3.99,
+    "market_id": 1,
+    "image": "https://images.migrosone.com/sanalmarket/product/04201351/sabah-margarin-250-gr-ea83e1-1650x1650.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Kurabiye",
+    "stock": 20,
+    "price": 7.99,
+    "market_id": 1,
+    "image": "https://images.migrosone.com/sanalmarket/product/05110394/alacati-tahinli-cevizli-kurabiye-200g-840e48-1650x1650.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Yumurta",
+    "stock": 30,
+    "price": 0.5,
+    "market_id": 2,
+    "image": "https://images.migrosone.com/sanalmarket/product/20001976/20001976-2e0cb2-1650x1650.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Balık",
+    "stock": 20,
+    "price": 19.99,
+    "market_id": 2,
+    "image": "https://images.migrosone.com/sanalmarket/product/18020011/18020011-1a5d26-1650x1650.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Dana Kıyma",
+    "stock": 15,
+    "price": 29.99,
+    "market_id": 2,
+    "image": "https://images.migrosone.com/sanalmarket/product/25030352/25030352-9e6e4c-1650x1650.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Zeytinyağı",
+    "stock": 25,
+    "price": 11.99,
+    "market_id": 2,
+    "image": "https://images.migrosone.com/sanalmarket/product/04130155/04130155-e56eae-1650x1650.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Çay",
+    "stock": 40,
+    "price": 9.99,
+    "market_id": 2,
+    "image": "https://images.migrosone.com/sanalmarket/product/03111303/03111303-949450-1650x1650.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Kahve",
+    "stock": 30,
+    "price": 14.99,
+    "market_id": 2,
+    "image": "https://images.migrosone.com/sanalmarket/product/03211601/03211601-a57e01-1650x1650.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Ananas",
+    "stock": 20,
+    "price": 6.99,
+    "market_id": 2,
+    "image": "https://images.migrosone.com/sanalmarket/product/27501003/-ananas-adet-c1fa49-1650x1650.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Karpuz",
+    "stock": 15,
+    "price": 4.99,
+    "market_id": 2,
+    "image": "https://images.migrosone.com/sanalmarket/product/27191000/karpuz-kg-ort-8-kg-9f33c7-1650x1650.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Köfte",
+    "stock": 25,
+    "price": 9.99,
+    "market_id": 2,
+    "image": "https://images.migrosone.com/sanalmarket/product/25030153/25030153-a473b4-1650x1650.png"
+  },
+  {
+    "id": 24,
+    "name": "Sosis",
+    "stock": 10,
+    "price": 8.99,
+    "market_id": 2,
+    "image": "https://images.migrosone.com/sanalmarket/product/14010104/pinar-kokteyl-sosis-215-gr-4c5fb9-1650x1650.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Margarin",
+    "stock": 20,
+    "price": 3.99,
+    "market_id": 2,
+    "image": "https://images.migrosone.com/sanalmarket/product/04201351/sabah-margarin-250-gr-ea83e1-1650x1650.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Pasta",
+    "stock": 15,
+    "price": 19.99,
+    "market_id": 2,
+    "image": "https://images.migrosone.com/sanalmarket/product/05120138/05120138-fbafea-1650x1650.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Kurabiye",
+    "stock": 20,
+    "price": 7.99,
+    "market_id": 2,
+    "image": "https://images.migrosone.com/sanalmarket/product/05110394/alacati-tahinli-cevizli-kurabiye-200g-840e48-1650x1650.jpg"
+  },
+
+  {
+    "id": 28,
+    "name": "Karpuz",
+    "stock": 15,
+    "price": 4.99,
+    "market_id": 3,
+    "image": "https://images.migrosone.com/sanalmarket/product/27191000/karpuz-kg-ort-8-kg-9f33c7-1650x1650.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Köfte",
+    "stock": 25,
+    "price": 9.99,
+    "market_id": 3,
+    "image": "https://images.migrosone.com/sanalmarket/product/25030153/25030153-a473b4-1650x1650.png"
+  },
+  {
+    "id": 30,
+    "name": "Sosis",
+    "stock": 10,
+    "price": 8.99,
+    "market_id": 3,
+    "image": "https://images.migrosone.com/sanalmarket/product/14010104/pinar-kokteyl-sosis-215-gr-4c5fb9-1650x1650.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Yumurta",
+    "stock": 30,
+    "price": 0.5,
+    "market_id": 3,
+    "image": "https://images.migrosone.com/sanalmarket/product/20001976/20001976-2e0cb2-1650x1650.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Balık",
+    "stock": 20,
+    "price": 19.99,
+    "market_id": 3,
+    "image": "https://images.migrosone.com/sanalmarket/product/18020011/18020011-1a5d26-1650x1650.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Dana Kıyma",
+    "stock": 15,
+    "price": 29.99,
+    "market_id": 3,
+    "image": "https://images.migrosone.com/sanalmarket/product/25030352/25030352-9e6e4c-1650x1650.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Zeytinyağı",
+    "stock": 25,
+    "price": 11.99,
+    "market_id": 3,
+    "image": "https://images.migrosone.com/sanalmarket/product/04130155/04130155-e56eae-1650x1650.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Çay",
+    "stock": 40,
+    "price": 9.99,
+    "market_id": 3,
+    "image": "https://images.migrosone.com/sanalmarket/product/03111303/03111303-949450-1650x1650.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Kahve",
+    "stock": 30,
+    "price": 14.99,
+    "market_id": 3,
+    "image": "https://images.migrosone.com/sanalmarket/product/03211601/03211601-a57e01-1650x1650.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Ananas",
+    "stock": 20,
+    "price": 6.99,
+    "market_id": 3,
+    "image": "https://images.migrosone.com/sanalmarket/product/27501003/-ananas-adet-c1fa49-1650x1650.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Pasta",
+    "stock": 15,
+    "price": 19.99,
+    "market_id": 3,
+    "image": "https://images.migrosone.com/sanalmarket/product/05120138/05120138-fbafea-1650x1650.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Margarin",
+    "stock": 20,
+    "price": 3.99,
+    "market_id": 3,
+    "image": "https://images.migrosone.com/sanalmarket/product/04201351/sabah-margarin-250-gr-ea83e1-1650x1650.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Kurabiye",
+    "stock": 20,
+    "price": 7.99,
+    "market_id": 3,
+    "image": "https://images.migrosone.com/sanalmarket/product/05110394/alacati-tahinli-cevizli-kurabiye-200g-840e48-1650x1650.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Kahve",
+    "stock": 30,
+    "price": 14.99,
+    "market_id": 4,
+    "image": "https://images.migrosone.com/sanalmarket/product/03211601/03211601-a57e01-1650x1650.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Dana Kıyma",
+    "stock": 15,
+    "price": 29.99,
+    "market_id": 4,
+    "image": "https://images.migrosone.com/sanalmarket/product/25030352/25030352-9e6e4c-1650x1650.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Zeytinyağı",
+    "stock": 25,
+    "price": 11.99,
+    "market_id": 4,
+    "image": "https://images.migrosone.com/sanalmarket/product/04130155/04130155-e56eae-1650x1650.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Karpuz",
+    "stock": 15,
+    "price": 4.99,
+    "market_id": 4,
+    "image": "https://images.migrosone.com/sanalmarket/product/27191000/karpuz-kg-ort-8-kg-9f33c7-1650x1650.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Köfte",
+    "stock": 25,
+    "price": 9.99,
+    "market_id": 4,
+    "image": "https://images.migrosone.com/sanalmarket/product/25030153/25030153-a473b4-1650x1650.png"
+  },
+  {
+    "id": 46,
+    "name": "Sosis",
+    "stock": 10,
+    "price": 8.99,
+    "market_id": 4,
+    "image": "https://images.migrosone.com/sanalmarket/product/14010104/pinar-kokteyl-sosis-215-gr-4c5fb9-1650x1650.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Yumurta",
+    "stock": 30,
+    "price": 0.5,
+    "market_id": 4,
+    "image": "https://images.migrosone.com/sanalmarket/product/20001976/20001976-2e0cb2-1650x1650.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Balık",
+    "stock": 20,
+    "price": 19.99,
+    "market_id": 4,
+    "image": "https://images.migrosone.com/sanalmarket/product/18020011/18020011-1a5d26-1650x1650.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Çay",
+    "stock": 40,
+    "price": 9.99,
+    "market_id": 4,
+    "image": "https://images.migrosone.com/sanalmarket/product/03111303/03111303-949450-1650x1650.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Ananas",
+    "stock": 20,
+    "price": 6.99,
+    "market_id": 4,
+    "image": "https://images.migrosone.com/sanalmarket/product/27501003/-ananas-adet-c1fa49-1650x1650.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Pasta",
+    "stock": 15,
+    "price": 19.99,
+    "market_id": 4,
+    "image": "https://images.migrosone.com/sanalmarket/product/05120138/05120138-fbafea-1650x1650.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Margarin",
+    "stock": 20,
+    "price": 3.99,
+    "market_id": 4,
+    "image": "https://images.migrosone.com/sanalmarket/product/04201351/sabah-margarin-250-gr-ea83e1-1650x1650.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Kurabiye",
+    "stock": 20,
+    "price": 7.99,
+    "market_id": 4,
+    "image": "https://images.migrosone.com/sanalmarket/product/05110394/alacati-tahinli-cevizli-kurabiye-200g-840e48-1650x1650.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Köfte",
+    "stock": 25,
+    "price": 9.99,
+    "market_id": 5,
+    "image": "https://images.migrosone.com/sanalmarket/product/25030153/25030153-a473b4-1650x1650.png"
+  },
+  {
+    "id": 55,
+    "name": "Sosis",
+    "stock": 10,
+    "price": 8.99,
+    "market_id": 5,
+    "image": "https://images.migrosone.com/sanalmarket/product/14010104/pinar-kokteyl-sosis-215-gr-4c5fb9-1650x1650.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Yumurta",
+    "stock": 30,
+    "price": 0.5,
+    "market_id": 5,
+    "image": "https://images.migrosone.com/sanalmarket/product/20001976/20001976-2e0cb2-1650x1650.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Kahve",
+    "stock": 30,
+    "price": 14.99,
+    "market_id": 5,
+    "image": "https://images.migrosone.com/sanalmarket/product/03211601/03211601-a57e01-1650x1650.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Dana Kıyma",
+    "stock": 15,
+    "price": 29.99,
+    "market_id": 5,
+    "image": "https://images.migrosone.com/sanalmarket/product/25030352/25030352-9e6e4c-1650x1650.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Zeytinyağı",
+    "stock": 25,
+    "price": 11.99,
+    "market_id": 5,
+    "image": "https://images.migrosone.com/sanalmarket/product/04130155/04130155-e56eae-1650x1650.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Karpuz",
+    "stock": 15,
+    "price": 4.99,
+    "market_id": 5,
+    "image": "https://images.migrosone.com/sanalmarket/product/27191000/karpuz-kg-ort-8-kg-9f33c7-1650x1650.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Balık",
+    "stock": 20,
+    "price": 19.99,
+    "market_id": 5,
+    "image": "https://images.migrosone.com/sanalmarket/product/18020011/18020011-1a5d26-1650x1650.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Çay",
+    "stock": 40,
+    "price": 9.99,
+    "market_id": 5,
+    "image": "https://images.migrosone.com/sanalmarket/product/03111303/03111303-949450-1650x1650.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Ananas",
+    "stock": 20,
+    "price": 6.99,
+    "market_id": 5,
+    "image": "https://images.migrosone.com/sanalmarket/product/27501003/-ananas-adet-c1fa49-1650x1650.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Pasta",
+    "stock": 15,
+    "price": 19.99,
+    "market_id": 5,
+    "image": "https://images.migrosone.com/sanalmarket/product/05120138/05120138-fbafea-1650x1650.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Margarin",
+    "stock": 20,
+    "price": 3.99,
+    "market_id": 5,
+    "image": "https://images.migrosone.com/sanalmarket/product/04201351/sabah-margarin-250-gr-ea83e1-1650x1650.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Kurabiye",
+    "stock": 20,
+    "price": 7.99,
+    "market_id": 5,
+    "image": "https://images.migrosone.com/sanalmarket/product/05110394/alacati-tahinli-cevizli-kurabiye-200g-840e48-1650x1650.jpg"
+  }
+]

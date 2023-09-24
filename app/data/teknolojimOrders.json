@@ -1,0 +1,283 @@
+[
+  {
+    "id": 1,
+    "siparisId": 1,
+    "siparisNo": "11111",
+    "siparisTarih": "23.06.2023",
+    "siparisSaati": "10:00",
+    "siparisDurumu": "Teslim Edildi",
+    "siparisToplamı": 79498,
+
+    "urunler": [
+      {
+        "urunId": 1,
+        "urunAdi": "iPhone 14 Pro Max",
+        "urunImage": "https://productimages.hepsiburada.net/s/283/444-444/110000271459910.jpg",
+        "urunFiyati": 68999,
+        "urunAdedi": 1,
+        "markaId": 1,
+        "markaName": "Apple",
+        "siparisDurumu": "Teslim Edildi"
+      },
+      {
+        "urunId": 20,
+        "urunAdi": "EM9114 Espresso Makinesi",
+        "urunImage": "https://productimages.hepsiburada.net/s/274/444-444/110000260270860.jpg",
+        "urunFiyati": 6999,
+        "urunAdedi": 1,
+        "markaId": 4,
+        "markaName": "Vestel",
+        "siparisDurumu": "Hazırlanıyor"
+      },
+      {
+        "urunId": 21,
+        "urunAdi": "K3000 Filtre Kahve Makinesi",
+        "urunImage": "https://productimages.hepsiburada.net/s/244/444-444/110000229205044.jpg",
+        "urunFiyati": 3500,
+        "urunAdedi": 2,
+        "markaId": 4,
+        "markaName": "Vestel",
+        "siparisDurumu": "Hazırlanıyor"
+      }
+    ],
+    "addresses": {
+      "name": "Ahmet Yılmaz",
+      "address_name": "Ev",
+      "address": "1234 Örnek Cadde",
+      "neighbourhood": "Kazım Karabekir Mah",
+      "county": "Ümraniye",
+      "city": "İstanbul",
+      "country": "Türkiye",
+      "tel": "5376614418"
+    },
+    "payment_info": {
+      "cardName": "Ziraat",
+      "card_number": "1234 5678 9012 3456",
+      "expiry_date": "06/25",
+      "cvv": "123"
+    }
+  },
+  {
+    "id": 2,
+    "siparisId": 2,
+    "siparisNo": "55555",
+    "siparisTarih": "30.09.2023",
+    "siparisSaati": "15:15",
+    "siparisDurumu": "Yola Çıktı",
+    "siparisToplamı": 41874,
+
+    "urunler": [
+      {
+        "urunId": 29,
+        "urunAdi": "Playstation 5 Dijital Sürüm",
+        "urunImage": "https://productimages.hepsiburada.net/s/56/444-444/11270703579186.jpg",
+        "urunFiyati": 20299,
+        "urunAdedi": 1,
+        "markaId": 6,
+        "markaName": "Sony",
+        "siparisDurumu": "Yola Çıktı"
+      },
+      {
+        "urunId": 31,
+        "urunAdi": "PS5 GTA 5",
+        "urunImage": "https://productimages.hepsiburada.net/s/207/444-444/110000183583362.jpg",
+        "urunFiyati": 875,
+        "urunAdedi": 1,
+        "markaId": 6,
+        "markaName": "Sony",
+        "siparisDurumu": "Yola Çıktı"
+      },
+      {
+        "urunId": 32,
+        "urunAdi": "PS5 NBA2K24",
+        "urunImage": "https://productimages.hepsiburada.net/s/463/444-444/110000499891314.jpg",
+        "urunFiyati": 1850,
+        "urunAdedi": 1,
+        "markaId": 6,
+        "markaName": "Sony",
+        "siparisDurumu": "Yola Çıktı"
+      },
+      {
+        "urunId": 33,
+        "urunAdi": "PS5 FARCRY 6",
+        "urunImage": "https://productimages.hepsiburada.net/s/126/444-444/110000076868585.jpg",
+        "urunFiyati": 1850,
+        "urunAdedi": 1,
+        "markaId": 6,
+        "markaName": "Sony",
+        "siparisDurumu": "Yola Çıktı"
+      },
+      {
+        "urunId": 27,
+        "urunAdi": "Gear VR Sanal Gerçeklik Gözlüğü",
+        "urunImage": "https://productimages.hepsiburada.net/s/10/444-444/9208632770610.jpg",
+        "urunFiyati": 8500,
+        "urunAdedi": 2,
+        "markaId": 2,
+        "markaName": "Samsung",
+        "siparisDurumu": "Hazırlanıyor"
+      }
+    ],
+    "addresses": {
+      "name": "Caner Yayla",
+      "address_name": "Dükkan",
+      "address": "1234 Deneme Cadde",
+      "neighbourhood": "Kazım Karabekir Mah",
+      "county": "Bahçelievler",
+      "city": "İstanbul",
+      "country": "Türkiye",
+      "tel": "5376614418"
+    },
+    "payment_info": {
+      "cardName": "Akbank",
+      "card_number": "1234 5678 9012 3456",
+      "expiry_date": "02/23",
+      "cvv": "123"
+    }
+  },
+  {
+    "id": 3,
+    "siparisId": 3,
+    "siparisNo": "22222",
+    "siparisTarih": "18.12.2023",
+    "siparisSaati": "12:30",
+    "siparisDurumu": "İptal Edildi",
+    "siparisToplamı": 26499,
+
+    "urunler": [
+      {
+        "urunId": 18,
+        "urunAdi": "55BU8008 55' 4K QLED TV",
+        "urunImage": "https://productimages.hepsiburada.net/s/398/444-444/110000423026432.jpg",
+        "urunFiyati": 26499,
+        "urunAdedi": 1,
+        "markaId": 2,
+        "markaName": "Samsung",
+        "siparisDurumu": "İptal Edildi"
+      }
+    ],
+    "addresses": {
+      "name": "Caner Yayla",
+      "address_name": "Dükkan",
+      "address": "1234 Deneme Cadde",
+      "neighbourhood": "Kazım Karabekir Mah",
+      "county": "Bahçelievler",
+      "city": "İstanbul",
+      "country": "Türkiye",
+      "tel": "5376614418"
+    },
+    "payment_info": {
+      "cardName": "Akbank",
+      "card_number": "1234 5678 9012 3456",
+      "expiry_date": "02/23",
+      "cvv": "123"
+    }
+  },
+  {
+    "id": 4,
+    "siparisId": 4,
+    "siparisNo": "33333",
+    "siparisTarih": "08.02.2023",
+    "siparisSaati": "15:15",
+    "siparisDurumu": "Siparişiniz Alındı",
+    "siparisToplamı": 44598,
+
+    "urunler": [
+      {
+        "urunId": 19,
+        "urunAdi": "CMI1082 10 KG Çamaşır Makinesi",
+        "urunImage": "https://productimages.hepsiburada.net/s/286/444-444/110000275339187.jpg",
+        "urunFiyati": 26499,
+        "urunAdedi": 1,
+        "markaId": 4,
+        "markaName": "Vestel",
+        "siparisDurumu": "Siparişiniz Alındı"
+      },
+      {
+        "urunId": 11,
+        "urunAdi": "DW60M504FS Inox Bulaşık Makinesi",
+        "urunImage": "https://productimages.hepsiburada.net/s/430/222-222/110000462400879.jpg",
+        "urunFiyati": 18099,
+        "urunAdedi": 1,
+        "markaId": 2,
+        "markaName": "Samsung",
+        "siparisDurumu": "Siparişiniz Alındı"
+      }
+    ],
+    "addresses": {
+      "name": "Caner Yayla",
+      "address_name": "Dükkan",
+      "address": "1234 Deneme Cadde",
+      "neighbourhood": "Kazım Karabekir Mah",
+      "county": "Bahçelievler",
+      "city": "İstanbul",
+      "country": "Türkiye",
+      "tel": "5376614418"
+    },
+    "payment_info": {
+      "cardName": "Akbank",
+      "card_number": "1234 5678 9012 3456",
+      "expiry_date": "02/23",
+      "cvv": "123"
+    }
+  },
+  {
+    "id": 5,
+    "siparisId": 5,
+    "siparisNo": "44444",
+    "siparisTarih": "30.09.2023",
+    "siparisSaati": "15:15",
+    "siparisDurumu": "Yola Çıktı",
+    "siparisToplamı": 13157,
+
+    "urunler": [
+      {
+        "urunId": 22,
+        "urunAdi": "VC07RMP Toz Torbasız Süpürge",
+        "urunImage": "https://productimages.hepsiburada.net/s/32/222-222/10359127932978.jpg",
+        "urunFiyati": 2259,
+        "urunAdedi": 1,
+        "markaId": 2,
+        "markaName": "Samsung",
+        "siparisDurumu": "Yola Çıktı"
+      },
+      {
+        "urunId": 23,
+        "urunAdi": "AR6001 Buhar Kazanlı Ütü",
+        "urunImage": "https://productimages.hepsiburada.net/s/38/444-444/10597590695986.jpg",
+        "urunFiyati": 4899,
+        "urunAdedi": 1,
+        "markaId": 7,
+        "markaName": "Arzum",
+        "siparisDurumu": "Hazırlanıyor"
+      },
+      {
+        "urunId": 26,
+        "urunAdi": "İkili Set Ev Aletleri",
+        "urunImage": "https://productimages.hepsiburada.net/s/193/444-444/110000160358002.jpg",
+        "urunFiyati": 5999,
+        "urunAdedi": 2,
+        "markaId": 8,
+        "markaName": "Arçelik",
+        "siparisDurumu": "Yola Çıktı"
+      }
+    ],
+    "addresses": {
+      "name": "Caner Yayla",
+      "address_name": "Dükkan",
+      "address": "1234 Deneme Cadde",
+      "neighbourhood": "Kazım Karabekir Mah",
+      "county": "Bahçelievler",
+      "city": "İstanbul",
+      "country": "Türkiye",
+      "tel": "5376614418"
+    },
+
+    "payment_info": {
+      "cardName": "Akbank",
+      "card_number": "1234 5678 9012 3456",
+      "expiry_date": "02/23",
+      "cvv": "123"
+    }
+  }
+]

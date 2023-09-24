@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "kategoriId": 1,
+    "kategoriName": "Burger",
+    "kategoriImage": "https://www.unileverfoodsolutions.com.tr/konsept-uygulamalarimiz/sokak-lezzetleri/hamburger-malzemesi-secerken/jcr:content/parsys/content/textimage_copy_copy_628821058/image.transform/jpeg-optimized/image.1552661787858.jpg"
+  },
+  {
+    "id": 2,
+    "kategoriId": 2,
+    "kategoriName": "Döner",
+    "kategoriImage": "https://static.ticimax.cloud/43437/uploads/urunresimleri/et-doner-fd2341.jpg"
+  },
+  {
+    "id": 3,
+    "kategoriId": 3,
+    "kategoriName": "Pizza",
+    "kategoriImage": "https://images.deliveryhero.io/image/fd-tr/Products/3542873.jpg?width=%s"
+  },
+  {
+    "id": 4,
+    "kategoriId": 4,
+    "kategoriName": "Pide & Lahmacun",
+    "kategoriImage": "https://banada.reyhanli.com.tr/wp-content/uploads/2021/09/lahmacun.jpg"
+  },
+  {
+    "id": 5,
+    "kategoriId": 5,
+    "kategoriName": "Tatlı",
+    "kategoriImage": "https://st1.myideasoft.com/idea/kb/59/myassets/products/383/fistikli-baklava1-800x800_min.jpg?revision=1689681608"
+  }
+]

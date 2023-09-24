@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "kategoriId": 1,
+    "kategoriName": "Telefon"
+  },
+  {
+    "id": 2,
+    "kategoriId": 2,
+    "kategoriName": "Bilgisayar & Tablet"
+  },
+  {
+    "id": 3,
+    "kategoriId": 3,
+    "kategoriName": "TV & Ses Sistemleri"
+  },
+  {
+    "id": 4,
+    "kategoriId": 4,
+    "kategoriName": "Beyaz Eşya"
+  },
+  {
+    "id": 5,
+    "kategoriId": 5,
+    "kategoriName": "Elektrikli Ev Aletleri"
+  },
+  {
+    "id": 6,
+    "kategoriId": 6,
+    "kategoriName": "Oyun & Oyun Konsolları"
+  },
+  {
+    "id": 7,
+    "kategoriId": 7,
+    "kategoriName": "Giyilebilir Teknoloji"
+  }
+]

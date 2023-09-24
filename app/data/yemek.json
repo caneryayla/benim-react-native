@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Burger King",
+    "district": "Kadıköy",
+    "logo": "https://logowik.com/content/uploads/images/burger-king-new-20218389.jpg",
+    "rating": 4.7,
+    "kategoriId": 1
+  },
+  {
+    "id": 2,
+    "name": "McDonald's",
+    "district": "Kadıköy",
+    "logo": "https://logowik.com/content/uploads/images/mcdonalds-icon.jpg",
+    "rating": 4.5,
+    "kategoriId": 1
+  },
+  {
+    "id": 3,
+    "name": "Hot Döner",
+    "district": "Kadıköy",
+    "logo": "https://www.butaworld.com/storage/medias/FOtMYqwg7rNJRHXGm1oLBOfYwFFDI4UUAFaf1BP0.png",
+    "rating": 4.2,
+    "kategoriId": 2
+  },
+  {
+    "id": 4,
+    "name": "Bereket Döner",
+    "district": "Kadıköy",
+    "logo": "https://ispartakulem.com/wp-content/uploads/2021/07/Bereket.jpg",
+    "rating": 4.1,
+    "kategoriId": 2
+  },
+  {
+    "id": 5,
+    "name": "Dominos Pizza",
+    "district": "Kadıköy",
+    "logo": "https://logowik.com/content/uploads/images/493_dominospizza.jpg",
+    "rating": 4.3,
+    "kategoriId": 3
+  },
+  {
+    "id": 6,
+    "name": "Pizza Hut",
+    "district": "Kadıköy",
+    "logo": "https://logowik.com/content/uploads/images/130_pizzahut.jpg",
+    "rating": 4.8,
+    "kategoriId": 3
+  },
+  {
+    "id": 7,
+    "name": "Pidem",
+    "district": "Kadıköy",
+    "logo": "https://markantalya.com/wp-content/uploads/2023/02/PIDEM.jpg",
+    "rating": 4.2,
+    "kategoriId": 4
+  },
+  {
+    "id": 8,
+    "name": "Faruk Güllüoğlu",
+    "district": "Kadıköy",
+    "logo": "https://www.evrensel.net/images/840/upload/dosya/156023.jpg",
+    "rating": 4.0,
+    "kategoriId": 5
+  },
+  {
+    "id": 9,
+    "name": "Ekleristan",
+    "district": "Kadıköy",
+    "logo": "https://www.firmarehberikonya.com/images/logolar/ekleristaneskiehirodunpazar96822.png",
+    "rating": 4.6,
+    "kategoriId": 5
+  }
+]

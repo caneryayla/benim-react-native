@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "siparisId": 1,
+    "siparisNo": "11111",
+    "siparisTarih": "23.06.2023",
+    "siparisSaati": "10:00",
+    "siparisDurumu": "Teslim Edildi",
+    "siparisToplamı": 320,
+    "markaName": "Burger King",
+
+    "urunler": [
+      {
+        "urunId": 1,
+        "urunAdi": "Köfte Burger Menü",
+        "urunImage": "https://www.burgerking.com.tr/cmsfiles/products/kofteburger-menu.png?v=290",
+        "urunFiyati": 150,
+        "urunAdedi": 1,
+        "markaId": 1
+      },
+      {
+        "urunId": 2,
+        "urunAdi": "Big King Menü",
+        "urunImage": "https://www.burgerking.com.tr/cmsfiles/products/big-king-menu.png?v=290",
+        "urunFiyati": 170,
+        "urunAdedi": 1,
+        "markaId": 1
+      }
+    ],
+    "addresses": {
+      "name": "Ahmet Yılmaz",
+      "address_name": "Ev",
+      "address": "1234 Örnek Cadde",
+      "neighbourhood": "Kazım Karabekir Mah",
+      "county": "Ümraniye",
+      "city": "İstanbul",
+      "country": "Türkiye",
+      "tel": "5376614418"
+    },
+    "payment_info": {
+      "cardName": "Ziraat",
+      "card_number": "1234 5678 9012 3456",
+      "expiry_date": "06/25",
+      "cvv": "123"
+    }
+  },
+  {
+    "id": 2,
+    "siparisId": 2,
+    "siparisNo": "55555",
+    "siparisTarih": "30.09.2023",
+    "siparisSaati": "15:15",
+    "siparisDurumu": "Yola Çıktı",
+    "siparisToplamı": 175,
+    "markaName": "Pidem",
+    "urunler": [
+      {
+        "urunId": 12,
+        "urunAdi": "Tavuklu Pide Menü",
+        "urunImage": "https://pidemstatik.kolay.site/content/product/img/PIDEM-WEB-SITESI-TAVUKLU-PIDEM-MENU-1200X1200px.jpg",
+        "urunFiyati": 95,
+        "urunAdedi": 1,
+        "markaId": 7
+      },
+      {
+        "urunId": 13,
+        "urunAdi": "Lahmacun",
+        "urunImage": "https://pidemstatik.kolay.site/content/product/img/PIDEM-WEB-SITESI-LAHMACUN-MENU-1200X1200px.jpg",
+        "urunFiyati": 40,
+        "urunAdedi": 2,
+        "markaId": 7
+      }
+    ],
+    "addresses": {
+      "name": "Caner Yayla",
+      "address_name": "Dükkan",
+      "address": "1234 Deneme Cadde",
+      "neighbourhood": "Kazım Karabekir Mah",
+      "county": "Bahçelievler",
+      "city": "İstanbul",
+      "country": "Türkiye",
+      "tel": "5376614418"
+    },
+    "payment_info": {
+      "cardName": "Akbank",
+      "card_number": "1234 5678 9012 3456",
+      "expiry_date": "02/23",
+      "cvv": "123"
+    }
+  },
+  {
+    "id": 3,
+    "siparisId": 3,
+    "siparisNo": "22222",
+    "siparisTarih": "18.12.2023",
+    "siparisSaati": "12:30",
+    "siparisDurumu": "İptal Edildi",
+    "siparisToplamı": 440,
+    "markaName": "Ekleristan",
+    "urunler": [
+      {
+        "urunId": 16,
+        "urunAdi": "Karışık Ekler 1 Kg",
+        "urunImage": "https://static.ticimax.cloud/44211/uploads/urunresimleri/buyuk/karisik-ekler--1-kg-6-4220.jpg",
+        "urunFiyati": 320,
+        "urunAdedi": 1,
+        "markaId": 9
+      },
+      {
+        "urunId": 17,
+        "urunAdi": "Karışık Kurabiye 500 gr",
+        "urunImage": "https://cevizagaci.com/img/product/l/karisik-special-tatli-kurabiye-tatli001-69.jpg",
+        "urunFiyati": 120,
+        "urunAdedi": 1,
+        "markaId": 9
+      }
+    ],
+    "addresses": {
+      "name": "Caner Yayla",
+      "address_name": "Dükkan",
+      "address": "1234 Deneme Cadde",
+      "neighbourhood": "Kazım Karabekir Mah",
+      "county": "Bahçelievler",
+      "city": "İstanbul",
+      "country": "Türkiye",
+      "tel": "5376614418"
+    },
+    "payment_info": {
+      "cardName": "Akbank",
+      "card_number": "1234 5678 9012 3456",
+      "expiry_date": "02/23",
+      "cvv": "123"
+    }
+  }
+]

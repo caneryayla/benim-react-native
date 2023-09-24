@@ -1,0 +1,229 @@
+[
+    {
+      "username": "Caner",
+      "usersurname": "Yayla",
+      "email": "kullanici1@gmail.com",
+      "password":"12345678",
+      "gender":"Erkek",
+      "age":"20",
+      "addresses": [
+      {
+        "addressId":1,
+        "name": "Ahmet Yılmaz",
+        "address_name":"Ev",
+        "address": "1234 Örnek Cadde",
+        "county":"Ümraniye",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "postal_code": "12345",
+        "active": true
+      }
+    ],
+    "payment_infos": [
+      {
+        "card":1,
+        "cardName":"Ziraat",
+        "card_number": "1234 5678 9012 3456",
+        "expiry_date": "06/25",
+        "cvv": "123",
+        "active": true
+      },
+      {
+        "cardId":2,
+        "cardName":"Akbank",
+        "card_number": "9876 5432 1098 7654",
+        "expiry_date": "12/23",
+        "cvv": "456",
+        "active": false
+      }
+    ],
+      "shopitems": [],
+      "total_amount": 49.98
+    },
+    {
+      "username": "Sinan",
+      "usersurname": "Öztürk",
+      "email": "kullanici2@@gmail.com",
+      "password":"12345678",
+      "gender":"Erkek",
+      "age":"24",
+      "addresses": [
+      {
+        "addressId":1,
+        "name": "Ayşe Demir",
+        "address_name":"Adres 1",
+        "address": "5678 Örnek Sokak",
+        "county":"Ümraniye",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "postal_code": "54321",
+        "active": true
+      }
+    ],
+    "payment_infos": [
+      {
+        "cardId":1,
+        "cardName":"Akbank",
+        "card_number": "1234 5678 9012 3456",
+        "expiry_date": "06/25",
+        "cvv": "123",
+        "active": true
+      },
+      {
+        "cardId":2,
+        "cardName":"Denizbank",
+        "card_number": "9876 5432 1098 7654",
+        "expiry_date": "12/23",
+        "cvv": "456",
+        "active": false
+      }
+    ],
+      "shopitems": [],
+      "total_amount": 0
+    },
+    {
+        "username": "Cenker",
+        "usersurname": "Yayla",
+        "email": "kullanici3@@gmail.com",
+        "password":"12345678",
+        "gender":"Erkek",
+        "age":"21",
+        "addresses": [
+        {
+          "addressId":1,
+          "name": "Ali Demir",
+          "address_name":"Adres 1",
+          "address": "5678 Örnek Sokak",
+          "county":"Ümraniye",
+          "city": "Ankara",
+          "country": "Türkiye",
+          "postal_code": "54321"
+        }
+      ],
+      "payment_infos": [
+        {
+          "cardId":1,
+          "cardName":"Akbank",
+          "card_number": "1234 5678 9012 3456",
+          "expiry_date": "06/25",
+          "cvv": "123",
+          "active": true
+        },
+        {
+          "cardId":2,
+          "cardName":"Denizbank",
+          "card_number": "9876 5432 1098 7654",
+          "expiry_date": "12/23",
+          "cvv": "456",
+          "active": false
+        }
+      ],
+        "shopitems": [],
+        "total_amount": 0
+    },
+    {
+        "username": "Arda",
+        "usersurname": "Mendil",
+        "email": "kullanici4@gmail.com",
+        "password":"12345678",
+        "gender":"Erkek",
+        "age":"22",
+        "addresses": [
+          {
+          "addressId":1,
+          "name": "Murat Kara",
+          "address_name":"Ev",
+          "address": "1234 Örnek Cadde",
+          "county":"Ümraniye",
+          "city": "İstanbul",
+          "country": "Türkiye",
+          "postal_code": "12345",
+          "active": true
+        },
+          {
+          "addressId":2,
+          "name": "Murat Beyaz",
+          "address_name":"Dükkan",
+          "address": "1234 Örnek Cadde",
+          "county":"Kadıköy",
+          "city": "İstanbul",
+          "country": "Türkiye",
+          "postal_code": "12345",
+          "active": false
+        },
+          {
+          "addressId":3,
+          "name": "Murat Kara",
+          "address_name":"İş",
+          "address": "1234 Örnek Cadde",
+          "county":"Üsküdar",
+          "city": "İstanbul",
+          "country": "Türkiye",
+          "postal_code": "12345",
+          "active": false
+        }
+      ],
+      "payment_infos": [
+        {
+          "cardId":1,
+          "cardName":"Akbank",
+          "card_number": "1234 5678 9012 3456",
+          "expiry_date": "06/25",
+          "cvv": "123",
+          "active": true
+        },
+        {
+          "cardId":2,
+          "cardName":"Garanti",
+          "card_number": "9876 5432 1098 7654",
+          "expiry_date": "12/23",
+          "cvv": "456",
+          "active": false
+        }
+      ],
+        "shopitems": [],
+        "total_amount": 0
+    },
+    {
+        "username": "İrem",
+        "usersurname": "Kaya",
+        "email": "kullanici5@gmail.com",
+        "password":"12345678",
+        "gender":"Kadın",
+        "age":"18",
+        "addresses": [
+        {
+          "addressId":1,
+          "name": "Murat Kara",
+          "address_name":"Adres 1",
+          "address": "1234 Örnek Cadde",
+          "county":"Ümraniye",
+          "city": "İstanbul",
+          "country": "Türkiye",
+          "postal_code": "12345",
+          "active": true
+        }
+      ],
+      "payment_infos": [
+        {
+          "cardId":1,
+          "cardName":"Akbank",
+          "card_number": "1234 5678 9012 3456",
+          "expiry_date": "06/25",
+          "cvv": "123",
+          "active": true
+        },
+        {
+          "cardId":2,
+          "cardName":"Vakıfbank",
+          "card_number": "9876 5432 1098 7654",
+          "expiry_date": "12/23",
+          "cvv": "456",
+          "active": false
+        }
+      ],
+        "shopitems": [],
+        "total_amount": 0
+    }
+  ]
+  

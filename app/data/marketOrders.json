@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "siparisId": 1,
+    "siparisNo": "11111",
+    "siparisTarih": "23.06.2023",
+    "siparisSaati": "10:00",
+    "marketId": 2,
+    "marketName": "Migros",
+    "siparisDurumu": "Teslim Edildi",
+    "siparisToplamı": 130.95,
+
+    "urunler": [
+      {
+        "urunId": 1,
+        "urunAdi": "Zeytinyağı",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/04130155/04130155-e56eae-1650x1650.jpg",
+        "urunFiyati": 25.5,
+        "urunAdedi": 2
+      },
+      {
+        "urunId": 3,
+        "urunAdi": "Kahve",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/03211601/03211601-a57e01-1650x1650.jpg",
+        "urunFiyati": 30.0,
+        "urunAdedi": 1
+      },
+      {
+        "urunId": 5,
+        "urunAdi": "Karpuz",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/27191000/karpuz-kg-ort-8-kg-9f33c7-1650x1650.jpg",
+        "urunFiyati": 10.0,
+        "urunAdedi": 3
+      }
+    ],
+    "addresses": {
+      "name": "Ahmet Yılmaz",
+      "address_name": "Ev",
+      "address": "1234 Örnek Cadde",
+      "neighbourhood": "Kazım Karabekir Mah",
+      "county": "Ümraniye",
+      "city": "İstanbul",
+      "country": "Türkiye",
+      "tel": "5376614418"
+    },
+    "payment_info": {
+      "cardName": "Ziraat",
+      "card_number": "1234 5678 9012 3456",
+      "expiry_date": "06/25",
+      "cvv": "123"
+    }
+  },
+  {
+    "id": 2,
+    "siparisId": 2,
+    "siparisNo": "22222",
+    "siparisTarih": "18.12.2023",
+    "siparisSaati": "12:30",
+    "marketId": 1,
+    "marketName": "Carrefoursa",
+    "siparisDurumu": "Hazırlanıyor",
+    "siparisToplamı": 70.45,
+
+    "urunler": [
+      {
+        "urunId": 5,
+        "urunAdi": "Karpuz",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/27191000/karpuz-kg-ort-8-kg-9f33c7-1650x1650.jpg",
+        "urunFiyati": 15.25,
+        "urunAdedi": 2
+      },
+      {
+        "urunId": 1,
+        "urunAdi": "Zeytinyağı",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/04130155/04130155-e56eae-1650x1650.jpg",
+        "urunFiyati": 20.0,
+        "urunAdedi": 1
+      }
+    ],
+    "addresses": {
+      "name": "Caner Yayla",
+      "address_name": "Dükkan",
+      "address": "1234 Deneme Cadde",
+      "neighbourhood": "Kazım Karabekir Mah",
+      "county": "Bahçelievler",
+      "city": "İstanbul",
+      "country": "Türkiye",
+      "tel": "5376614418"
+    },
+    "payment_info": {
+      "cardName": "Akbank",
+      "card_number": "1234 5678 9012 3456",
+      "expiry_date": "02/23",
+      "cvv": "123"
+    }
+  },
+  {
+    "id": 3,
+    "siparisId": 3,
+    "siparisNo": "33333",
+    "siparisTarih": "08.02.2023",
+    "siparisSaati": "15:15",
+    "marketId": 3,
+    "marketName": "Seyhanlar",
+    "siparisDurumu": "Siparişiniz Alındı",
+    "siparisToplamı": 216.65,
+
+    "urunler": [
+      {
+        "urunId": 6,
+        "urunAdi": "Izgara Köfte",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/25030153/25030153-a473b4-1650x1650.png",
+        "urunFiyati": 40.5,
+        "urunAdedi": 2
+      },
+      {
+        "urunId": 7,
+        "urunAdi": "Yumurta",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/20001976/20001976-2e0cb2-1650x1650.jpg",
+        "urunFiyati": 30.25,
+        "urunAdedi": 3
+      },
+      {
+        "urunId": 8,
+        "urunAdi": "Somon Füme",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/18020011/18020011-1a5d26-1650x1650.jpg",
+        "urunFiyati": 24.95,
+        "urunAdedi": 1
+      }
+    ],
+    "addresses": {
+      "name": "Caner Yayla",
+      "address_name": "Dükkan",
+      "address": "1234 Deneme Cadde",
+      "neighbourhood": "Kazım Karabekir Mah",
+      "county": "Bahçelievler",
+      "city": "İstanbul",
+      "country": "Türkiye",
+      "tel": "5376614418"
+    },
+    "payment_info": {
+      "cardName": "Akbank",
+      "card_number": "1234 5678 9012 3456",
+      "expiry_date": "02/23",
+      "cvv": "123"
+    }
+  },
+  {
+    "id": 4,
+    "siparisId": 4,
+    "siparisNo": "44444",
+    "siparisTarih": "30.09.2023",
+    "siparisSaati": "15:15",
+    "marketId": 4,
+    "marketName": "Hakmar",
+    "siparisDurumu": "Yola Çıktı",
+    "siparisToplamı": 150.85,
+
+    "urunler": [
+      {
+        "urunId": 9,
+        "urunAdi": "Dana Kıyma",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/25030352/25030352-9e6e4c-1650x1650.jpg",
+        "urunFiyati": 37.95,
+        "urunAdedi": 2
+      },
+      {
+        "urunId": 10,
+        "urunAdi": "Sosis",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/14010104/pinar-kokteyl-sosis-215-gr-4c5fb9-1650x1650.jpg",
+        "urunFiyati": 30,
+        "urunAdedi": 3
+      },
+      {
+        "urunId": 5,
+        "urunAdi": "Karpuz",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/27191000/karpuz-kg-ort-8-kg-9f33c7-1650x1650.jpg",
+        "urunFiyati": 25,
+        "urunAdedi": 1
+      }
+    ],
+    "addresses": {
+      "name": "Caner Yayla",
+      "address_name": "Dükkan",
+      "address": "1234 Deneme Cadde",
+      "neighbourhood": "Kazım Karabekir Mah",
+      "county": "Bahçelievler",
+      "city": "İstanbul",
+      "country": "Türkiye",
+      "tel": "5376614418"
+    },
+
+    "payment_info": {
+      "cardName": "Akbank",
+      "card_number": "1234 5678 9012 3456",
+      "expiry_date": "02/23",
+      "cvv": "123"
+    }
+  },
+  {
+    "id": 5,
+    "siparisId": 5,
+    "siparisNo": "55555",
+    "siparisTarih": "30.09.2023",
+    "siparisSaati": "15:15",
+    "marketId": 4,
+    "marketName": "Happy Center",
+    "siparisDurumu": "İptal Edildi",
+    "siparisToplamı": 348,
+
+    "urunler": [
+      {
+        "urunId": 12,
+        "urunAdi": "Pasta",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/05120138/05120138-fbafea-1650x1650.jpg",
+        "urunFiyati": 40.9,
+        "urunAdedi": 2
+      },
+      {
+        "urunId": 13,
+        "urunAdi": "Margarin",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/04201351/sabah-margarin-250-gr-ea83e1-1650x1650.jpg",
+        "urunFiyati": 12,
+        "urunAdedi": 3
+      },
+      {
+        "urunId": 14,
+        "urunAdi": "Kurabiye",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/05110394/alacati-tahinli-cevizli-kurabiye-200g-840e48-1650x1650.jpg",
+        "urunFiyati": 25.0,
+        "urunAdedi": 1
+      },
+      {
+        "urunId": 9,
+        "urunAdi": "Dana Kıyma",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/25030352/25030352-9e6e4c-1650x1650.jpg",
+        "urunFiyati": 70,
+        "urunAdedi": 2
+      },
+      {
+        "urunId": 10,
+        "urunAdi": "Sosis",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/14010104/pinar-kokteyl-sosis-215-gr-4c5fb9-1650x1650.jpg",
+        "urunFiyati": 30.25,
+        "urunAdedi": 3
+      },
+      {
+        "urunId": 5,
+        "urunAdi": "Karpuz",
+        "urunImage": "https://images.migrosone.com/sanalmarket/product/27191000/karpuz-kg-ort-8-kg-9f33c7-1650x1650.jpg",
+        "urunFiyati": 25.0,
+        "urunAdedi": 1
+      }
+    ],
+    "addresses": {
+      "name": "Caner Yayla",
+      "address_name": "Dükkan",
+      "address": "1234 Deneme Cadde",
+      "neighbourhood": "Kazım Karabekir Mah",
+      "county": "Bahçelievler",
+      "city": "İstanbul",
+      "country": "Türkiye",
+      "tel": "5376614418"
+    },
+    "payment_info": {
+      "cardName": "Akbank",
+      "card_number": "1234 5678 9012 3456",
+      "expiry_date": "02/23",
+      "cvv": "123"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "logo": "https://logowik.com/content/uploads/images/apple-black8038.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "name": "Samsung",
+    "logo": "https://logowik.com/content/uploads/images/samsung9636.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "MSI",
+    "logo": "https://logowik.com/content/uploads/images/msi-micro-star-international7670.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Vestel",
+    "logo": "https://logowik.com/content/uploads/images/656_vestel_logo.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 5,
+    "name": "Huawei",
+    "logo": "https://logowik.com/content/uploads/images/443_huawei.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Sony",
+    "logo": "https://logowik.com/content/uploads/images/305_sony.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 7,
+    "name": "Arzum",
+    "logo": "https://logowik.com/content/uploads/images/259_arzum.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 8,
+    "name": "Arçelik",
+    "logo": "https://logowik.com/content/uploads/images/855_arcelik.jpg",
+    "rating": 4.0
+  }
+]

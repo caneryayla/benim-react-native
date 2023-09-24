@@ -1,0 +1,101 @@
+[
+  {
+    "urunId": 4,
+    "urunAdi": "iPhone 15 Pro",
+    "urunImage": "https://cdn.akakce.com/z/apple/iphone-15-pro-max-256-gb-mavi-titanyum.jpg",
+    "urunFiyati": 62849,
+    "active": 1,
+    "marka_id": 1,
+    "markaName": "Apple"
+  },
+  {
+    "urunId": 5,
+    "urunAdi": "Watch 7",
+    "urunImage": "https://productimages.hepsiburada.net/s/126/444-444/110000076885275.jpg",
+    "urunFiyati": 17000,
+    "active": 1,
+    "marka_id": 1,
+    "markaName": "Apple"
+  },
+  {
+    "urunId": 12,
+    "urunAdi": "THIN GF63 Oyun Bilgisayarı",
+    "urunImage": "https://productimages.hepsiburada.net/s/377/444-444/110000395335270.jpg",
+    "urunFiyati": 27999,
+    "active": 1,
+    "marka_id": 3,
+    "markaName": "MSI"
+  },
+  {
+    "urunId": 14,
+    "urunAdi": "GeForce RTX 4080 Ekran Kartı",
+    "urunImage": "https://productimages.hepsiburada.net/s/404/444-444/110000430457356.jpg",
+    "urunFiyati": 56999,
+    "active": 1,
+    "marka_id": 3,
+    "markaName": "MSI"
+  },
+  {
+    "urunId": 15,
+    "urunAdi": "G2712 27' IPS Gaming Monitör",
+    "urunImage": "https://productimages.hepsiburada.net/s/453/444-444/110000488802426.jpg",
+    "urunFiyati": 6499,
+    "active": 1,
+    "marka_id": 3,
+    "markaName": "MSI"
+  },
+  {
+    "urunId": 20,
+    "urunAdi": "EM9114 Espresso Makinesi",
+    "urunImage": "https://productimages.hepsiburada.net/s/274/444-444/110000260270860.jpg",
+    "urunFiyati": 6999,
+    "active": 1,
+    "marka_id": 4,
+    "markaName": "Vestel"
+  },
+  {
+    "urunId": 25,
+    "urunAdi": "VR3MB7 Robot Süpürge",
+    "urunImage": "https://productimages.hepsiburada.net/s/420/444-444/110000449728496.jpg",
+    "urunFiyati": 1199,
+    "active": 1,
+    "marka_id": 2,
+    "markaName": "Samsung"
+  },
+  {
+    "urunId": 27,
+    "urunAdi": "Gear VR Sanal Gerçeklik Gözlüğü",
+    "urunImage": "https://productimages.hepsiburada.net/s/10/444-444/9208632770610.jpg",
+    "urunFiyati": 8499,
+    "active": 1,
+    "marka_id": 2,
+    "markaName": "Samsung"
+  },
+  {
+    "urunId": 29,
+    "urunAdi": "Playstation 5 Dijital Sürüm",
+    "urunImage": "https://productimages.hepsiburada.net/s/56/444-444/11270703579186.jpg",
+    "urunFiyati": 20299,
+    "active": 1,
+    "marka_id": 6,
+    "markaName": "Sony"
+  },
+  {
+    "urunId": 31,
+    "urunAdi": "PS5 GTA 5",
+    "urunImage": "https://productimages.hepsiburada.net/s/207/444-444/110000183583362.jpg",
+    "urunFiyati": 875,
+    "active": 1,
+    "marka_id": 6,
+    "markaName": "Sony"
+  },
+  {
+    "urunId": 32,
+    "urunAdi": "PS5 NBA2K24",
+    "urunImage": "https://productimages.hepsiburada.net/s/463/444-444/110000499891314.jpg",
+    "urunFiyati": 1850,
+    "active": 1,
+    "marka_id": 6,
+    "markaName": "Sony"
+  }
+]

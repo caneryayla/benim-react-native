@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "konserId": 1,
+    "konser_adı": "Rock Fest",
+    "tarih": "15 Mart Salı",
+    "saat": "19:00",
+    "yer": "Stadyum A",
+    "şehir": "İstanbul",
+    "konser_img": "https://images.themagger.net/wp-content/uploads/2019/01/Istanbul-Konserleri-633x433.jpeg",
+    "sanatçılar": ["Guns N, ' Roses, ", "Metallica, "],
+    "biletler": [
+      {
+        "kategoriler": [
+          {
+            "kategori_adı": "VIP",
+            "fiyat": 500,
+            "kalan_miktar": 50
+          },
+          {
+            "kategori_adı": "Normal",
+            "fiyat": 250,
+            "kalan_miktar": 200
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "konserId": 2,
+    "konser_adı": "Pop Night",
+    "tarih": "05 Eylül Cuma",
+    "saat": "20:30",
+    "yer": "Arena B",
+    "şehir": "Ankara",
+    "konser_img": "https://images.themagger.net/wp-content/uploads/2010/01/Uniq-%C4%B0stanbul-633x355.jpg",
+    "sanatçılar": ["Taylor Swift, ", "Ed Sheeran, ", "Dua Lipa "],
+    "biletler": [
+      {
+        "kategoriler": [
+          {
+            "kategori_adı": "VIP",
+            "fiyat": 400,
+            "kalan_miktar": 30
+          },
+          {
+            "kategori_adı": "Normal",
+            "fiyat": 200,
+            "kalan_miktar": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "konserId": 3,
+    "konser_adı": "Jazz Fest",
+    "tarih": "12 Aralık Pazar",
+    "saat": "18:00",
+    "yer": "Opera House",
+    "şehir": "İzmir",
+    "konser_img": "https://www.alanya.bel.tr/Photos/News/Big/146730720225545168.JPG",
+    "sanatçılar": [
+      "John Coltrane Quartet, ",
+      "Ella Fitzgerald, ",
+      "Miles Davis"
+    ],
+    "biletler": [
+      {
+        "kategoriler": [
+          {
+            "kategori_adı": "VIP",
+            "fiyat": 300,
+            "kalan_miktar": 20
+          },
+          {
+            "kategori_adı": "Normal",
+            "fiyat": 150,
+            "kalan_miktar": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "konserId": 4,
+    "konser_adı": "Milyon Fest",
+    "tarih": "9-13 Eylül ",
+    "saat": "16:00 - 03:00",
+    "yer": "Fethiye",
+    "şehir": "Muğla",
+    "konser_img": "https://icdn.tgrthaber.com.tr/images/22-08/24/yeni-kalip-intro-1661339545.jpg",
+    "sanatçılar": [
+      "John Coltrane Quartet, ",
+      "Ella Fitzgerald, ",
+      "Miles Davis"
+    ],
+    "biletler": [
+      {
+        "kategoriler": [
+          {
+            "kategori_adı": "VIP",
+            "fiyat": 700,
+            "kalan_miktar": 20
+          },
+          {
+            "kategori_adı": "Normal",
+            "fiyat": 500,
+            "kalan_miktar": 80
+          }
+        ]
+      }
+    ]
+  }
+]
